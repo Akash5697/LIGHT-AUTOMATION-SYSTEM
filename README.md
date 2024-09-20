@@ -1,5 +1,5 @@
 # LIGHT-AUTOMATION-SYSTEM
-I have done Light Automation System and my main objective is to save Energy. By this project, i am reducing the amount of time, a bulb used thus reducing electricity bill. 
+I have done Light Automation System and my main objective is to save Energy. By this project, I am reducing the amount of time, a bulb used thus reducing electricity bill.The system operates by counting the number of people entering and exiting a room, ensuring that the lights remain on when people are present and automatically turning them off when the room is empty. Additionally, the system takes into account the ambient light intensity, detected by an LDR (Light Dependent Resistor), ensuring that the lights only turn on when necessary—when natural light is insufficient. 
 
 PROJECT COMPONENT LIST
 1. Arduino uno
