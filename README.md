@@ -1,13 +1,13 @@
 # LIGHT-AUTOMATION-SYSTEM
-I have done Light Automation System and our main objective is to save Energy. By this project, we are reducing the amount of time, a bulb used thus reducing electricity bill. 
+I have done Light Automation System and my main objective is to save Energy. By this project, i am reducing the amount of time, a bulb used thus reducing electricity bill. 
 
 PROJECT COMPONENT LIST
-1.Arduino uno
+1. Arduino uno
 2. Breadboard
 3. LED
 4. Resistor
 5. PIR Sensor
-6.LDR 
+6. LDR 
 7. Jumper Wire
 
 DESCRIPTION OF EACH COMPONENT
